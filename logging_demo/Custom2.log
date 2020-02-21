@@ -1,0 +1,3 @@
+02/16/2020 11:39:03 AM - root - INFO: calling MethodA
+02/16/2020 11:39:03 AM - root - INFO: calling MethodB
+02/16/2020 11:39:03 AM - root - INFO: calling MethodA of custom2
